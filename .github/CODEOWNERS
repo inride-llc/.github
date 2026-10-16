@@ -1,0 +1,6 @@
+# Security policy and security automation reviewers.
+/.github/security/ @nick-inride @shaunInride
+/.github/workflows/ @nick-inride @shaunInride
+/.github/CODEOWNERS @nick-inride @shaunInride
+/SECURITY.md @nick-inride @shaunInride
+/docs/security/ @nick-inride @shaunInride
